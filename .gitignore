@@ -1,5 +1,6 @@
 coursera_tf/
 .vscode/
+assignment/
 history.pkl
 history.pkl copy
 history_augmented.pkl
