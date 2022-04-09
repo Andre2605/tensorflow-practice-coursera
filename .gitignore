@@ -1,4 +1,5 @@
 coursera_tf/
+.vscode/
 history.pkl
 history.pkl copy
 history_augmented.pkl
