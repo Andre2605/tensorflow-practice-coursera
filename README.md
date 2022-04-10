@@ -1,3 +1,8 @@
+**This is a description of the files listed in this folder. These files were
+obtained from a private study provided by Bangkit through Coursera at TensorFlow
+DeepLearning.AI Developers. This file includes lessons on TensorFlow from CNN,
+RNN, NLP, and Image Recognition.**
+
 - C1_W2 : Use the MNIST fashion library to create the model. There are several
   explanations about the functions used and their uses. In addition, there are
   some important notes at the end.
